@@ -1,0 +1,20 @@
+﻿# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/*
+
+# Node / web
+node_modules/
+dist/
+build/
+coverage/
+npm-debug.log*
+yarn-error.log*
+
+# Capacitor nativo (no versionamos)
+android/
+ios/
+
+# Misc
+*.log
