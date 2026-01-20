@@ -11,3 +11,4 @@ Ionic Web Components + Leaflet.
 * Navegación por hash y persistencia en localStorage
 
 API: https://goalify.develotion.com
+Live: https://fkolender.github.io/Goalify/#/login
